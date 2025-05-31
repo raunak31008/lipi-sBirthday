@@ -39,5 +39,6 @@
   "devDependencies": {
     "gh-pages": "^6.3.0",
     "tailwindcss": "^3.4.10"
-  }
+  },
+  "homepage": "https://raunak31008.github.io/lipi-sBirthday"
 }
