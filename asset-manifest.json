@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/lipi-sBirthday/static/css/main.2ad1e693.css",
+    "main.js": "/lipi-sBirthday/static/js/main.97d028f7.js",
+    "static/js/453.ed3810f9.chunk.js": "/lipi-sBirthday/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/lipi-sBirthday/index.html",
+    "main.2ad1e693.css.map": "/lipi-sBirthday/static/css/main.2ad1e693.css.map",
+    "main.97d028f7.js.map": "/lipi-sBirthday/static/js/main.97d028f7.js.map",
+    "453.ed3810f9.chunk.js.map": "/lipi-sBirthday/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2ad1e693.css",
+    "static/js/main.97d028f7.js"
+  ]
+}
